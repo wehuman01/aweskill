@@ -189,6 +189,11 @@ const AGENTS = {
     globalSkillsDir: (homeDir) => path.join(homeDir, ".vibe", "skills"),
     projectSkillsDir: (projectDir) => path.join(projectDir, ".vibe", "skills"),
   }),
+  mimo: defineAgent("mimo", "MiMo", {
+    rootDir: (homeDir) => path.join(homeDir, ".config", "mimocode"),
+    globalSkillsDir: (homeDir) => path.join(homeDir, ".config", "mimocode", "skills"),
+    projectSkillsDir: (projectDir) => path.join(projectDir, ".mimocode", "skills"),
+  }),
   mux: defineAgent("mux", "Mux", {
     rootDir: (homeDir) => path.join(homeDir, ".mux"),
     globalSkillsDir: (homeDir) => path.join(homeDir, ".mux", "skills"),

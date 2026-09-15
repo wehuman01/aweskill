@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Features
+
+- Add `mimo` (MiMo) as a supported agent, reading skills from `~/.config/mimocode/skills/` globally and `<project>/.mimocode/skills/` per project; supported-agent counts in both READMEs move from 48 to 49
+
 ### DX
 
 - Bump `actions/checkout` to `v7`, `actions/setup-node` to `v7`, and `softprops/action-gh-release` to `v3` in both workflows, clearing the Node 20 runtime deprecation warning on every run

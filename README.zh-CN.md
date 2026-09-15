@@ -649,9 +649,9 @@ skill 目录结构与设计原则见 [docs/DESIGN.md](docs/DESIGN.md)。
 
 ## 支持的 Agent
 
-支持 48 个 agent，包括：
+支持 49 个 agent，包括：
 
-**Claude Code** · **Cursor** · **Windsurf** · **Codex** · **GitHub Copilot** · **Gemini CLI** · **OpenCode** · **Goose** · **Amp** · **Roo Code** · **Kiro CLI** · **Kilo Code** · **Trae** · **Cline** · **Antigravity** · **Droid** · **Augment** · **OpenClaw** · **CodeBuddy** · **Command Code** · **Crush** · **Kode** · **Mistral Vibe** · **Mux** · **OpenClaude IDE** · **OpenHands** · **Qoder** · **Qwen Code** · **Replit** · **Trae CN** · **Neovate** · **AdaL** · **WorkBuddy AI**
+**Claude Code** · **Cursor** · **Windsurf** · **Codex** · **GitHub Copilot** · **Gemini CLI** · **OpenCode** · **Goose** · **Amp** · **Roo Code** · **Kiro CLI** · **Kilo Code** · **Trae** · **Cline** · **Antigravity** · **Droid** · **Augment** · **OpenClaw** · **CodeBuddy** · **Command Code** · **Crush** · **Kode** · **Mistral Vibe** · **MiMo** · **Mux** · **OpenClaude IDE** · **OpenHands** · **Qoder** · **Qwen Code** · **Replit** · **Trae CN** · **Neovate** · **AdaL** · **WorkBuddy AI**
 
 <details>
 <summary>所有支持的 agent</summary>
@@ -688,6 +688,7 @@ skill 目录结构与设计原则见 [docs/DESIGN.md](docs/DESIGN.md)。
 | `kode` | `~/.kode/skills/` | `<project>/.kode/skills/` |
 | `mcpjam` | `~/.mcpjam/skills/` | `<project>/.mcpjam/skills/` |
 | `mistral-vibe` | `~/.vibe/skills/` | `<project>/.vibe/skills/` |
+| `mimo` | `~/.config/mimocode/skills/` | `<project>/.mimocode/skills/` |
 | `mux` | `~/.mux/skills/` | `<project>/.mux/skills/` |
 | `neovate` | `~/.neovate/skills/` | `<project>/.neovate/skills/` |
 | `openclaw` | `~/.openclaw/skills/` | `<project>/.openclaw/skills/` |

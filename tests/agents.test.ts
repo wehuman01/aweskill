@@ -31,6 +31,8 @@ describe("agents", () => {
     expect(resolveAgentSkillsDir("replit", "project", "/tmp/project")).toContain(`.agent${sep}skills`);
     expect(resolveAgentSkillsDir("windsurf", "global", "/tmp/home")).toContain(`.codeium${sep}windsurf${sep}skills`);
     expect(resolveAgentSkillsDir("workbuddy", "global", "/tmp/home")).toContain(`.workbuddy-ai${sep}skills`);
+    expect(resolveAgentSkillsDir("mimo", "global", "/tmp/home")).toContain(`.config${sep}mimocode${sep}skills`);
+    expect(resolveAgentSkillsDir("mimo", "project", "/tmp/project")).toContain(`.mimocode${sep}skills`);
   });
 
   it("detects installed agents from root directories", async () => {
