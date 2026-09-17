@@ -6,7 +6,7 @@
 
 这篇文章就讲这三件事。
 
-GitHub: [github.com/Webioinfo01/aweskill](https://github.com/Webioinfo01/aweskill)
+GitHub: [github.com/wehuman01/aweskill](https://github.com/wehuman01/aweskill)
 
 ## 导入命令曾经不小心变成了两条
 
@@ -56,7 +56,7 @@ A new version of aweskill is available: 0.3.8 (you have 0.3.7). Run `aweskill se
 
 这三件事里这一件最技术，但用户面对的症状很简单：在主仓库里工作得好好的投射，到了嵌套 git worktree 里有时候就变成了失效的符号链接（悬空）。
 
-> 感谢 [Kang-chen](https://github.com/kang-chen) 提交了 [PR #13](https://github.com/Webioinfo01/aweskill/pull/13)——最初的补丁引入了 `AWESKILL_ABSOLUTE_SYMLINKS=1` 环境变量和针对性的测试。v0.3.8 在此基础上，把这个环境变量提升成了一个容易找到的 `--absolute` 标志。
+> 感谢 [Kang-chen](https://github.com/kang-chen) 提交了 [PR #13](https://github.com/wehuman01/aweskill/pull/13)——最初的补丁引入了 `AWESKILL_ABSOLUTE_SYMLINKS=1` 环境变量和针对性的测试。v0.3.8 在此基础上，把这个环境变量提升成了一个容易找到的 `--absolute` 标志。
 
 ### bug 的样子
 
@@ -128,6 +128,6 @@ aweskill agent add skill pr-review --global --agent codex --absolute
 
 aweskill 是 [Webioinfo](https://www.webioinfo.top/) 生态的一部分：
 
-- **[aweswitch](https://github.com/mugpeng/aweswitch)** — Agent 配置切换器（Claude、Codex、OpenCode）
-- **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — 带配置感知恢复的 AI 编码会话管理器
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — 自动化的学术文献发现工具
+- **[aweswitch](https://github.com/wehuman01/aweswitch)** — Agent 配置切换器（Claude、Codex、OpenCode）
+- **[aweshelf](https://github.com/wehuman01/aweshelf)** — 带配置感知恢复的 AI 编码会话管理器
+- **[awescholar](https://github.com/wehuman01/awescholar)** — 自动化的学术文献发现工具

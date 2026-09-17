@@ -44,8 +44,8 @@ The right tool for AI agents should be:
 
 Full disclosure: I built this. It's part of the Webioinfo ecosystem (also includes aweshelf for session bookmarks, awescholar for literature discovery, etc.).
 
-**GitHub**: https://github.com/mugpeng/aweskill
-**Agent docs**: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+**GitHub**: https://github.com/wehuman01/aweskill
+**Agent docs**: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 Curious what others think — is this the right abstraction, or am I solving a problem that'll resolve itself as agents get more capable?
 

@@ -8,7 +8,7 @@ I am on Windows. I open a fresh `cmd.exe` and type `aweskill find review`. The t
 
 When I came back, the install worked, the update worked, the `SKILL.md` showed its name and description, and the agent had a one-paragraph summary of what it changed. The `agent add` flow that worked on macOS for months now worked on Windows. Same command, same result, both shells.
 
-GitHub: [github.com/Webioinfo01/aweskill](https://github.com/Webioinfo01/aweskill)
+GitHub: [github.com/wehuman01/aweskill](https://github.com/wehuman01/aweskill)
 
 ## Bugs Fixed
 
@@ -111,6 +111,6 @@ That is the whole Windows experience now. Same config, same command, same `awesk
 
 aweskill is part of the [Webioinfo](https://www.webioinfo.top/) ecosystem:
 
-- **[aweswitch](https://github.com/mugpeng/aweswitch)** — Agent profile switcher (Claude, Codex, OpenCode); now cross-platform
-- **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — AI coding session manager with profile-aware restoration
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — Automated scientific literature discovery
+- **[aweswitch](https://github.com/wehuman01/aweswitch)** — Agent profile switcher (Claude, Codex, OpenCode); now cross-platform
+- **[aweshelf](https://github.com/wehuman01/aweshelf)** — AI coding session manager with profile-aware restoration
+- **[awescholar](https://github.com/wehuman01/awescholar)** — Automated scientific literature discovery

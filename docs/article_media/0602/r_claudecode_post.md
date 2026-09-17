@@ -13,7 +13,7 @@ I built `aweskill` — a CLI-first skill manager designed so that Claude Code (a
 Give Claude Code this instruction:
 
 ```
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 and install aweskill for this agent following the guide.
 ```
 
@@ -38,8 +38,8 @@ Claude Code will search, evaluate results, install the best match, project it to
 - State repair is automated — `aweskill-doctor` handles broken symlinks, malformed frontmatter, etc.
 
 **Links:**
-- GitHub: https://github.com/mugpeng/aweskill
-- Agent-specific guide: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+- GitHub: https://github.com/wehuman01/aweskill
+- Agent-specific guide: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 Full disclosure: I built this. Would love feedback from actual Claude Code users — does this solve a real pain point, or is it something you'd rather handle manually?
 

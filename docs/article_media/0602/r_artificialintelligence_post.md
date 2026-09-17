@@ -35,8 +35,8 @@ Tools for AI agents should be:
 - Recoverable (backup before major changes)
 
 **Links:**
-- GitHub: https://github.com/mugpeng/aweskill
-- Agent documentation: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+- GitHub: https://github.com/wehuman01/aweskill
+- Agent documentation: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 Would love to hear thoughts — is this the right direction for AI tooling, or will agents eventually handle this without specialized infrastructure?
 

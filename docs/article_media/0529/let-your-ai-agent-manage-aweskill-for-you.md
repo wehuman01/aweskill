@@ -20,8 +20,8 @@ Website: [aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
 
 It is already used as supporting infrastructure for several Webioinfo projects:
 
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — AI-agent-operable scientific literature discovery and curation. Search, annotate, filter, and report on academic papers.
-- **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — Session bookmark manager for Claude Code and Codex. Bookmark, categorize, and restore sessions with aweswitch profiles.
+- **[awescholar](https://github.com/wehuman01/awescholar)** — AI-agent-operable scientific literature discovery and curation. Search, annotate, filter, and report on academic papers.
+- **[aweshelf](https://github.com/wehuman01/aweshelf)** — Session bookmark manager for Claude Code and Codex. Bookmark, categorize, and restore sessions with aweswitch profiles.
 - **[Awesome AI Meets Biology](https://github.com/Webioinfo01/Awesome-AI-Meets-Biology)** — A curated survey of AI applications in biology, bioinformatics, and biomedical research, powered by awescholar.
 
 ## The Old Workflow: You Manage the Agent's Tools
@@ -48,7 +48,7 @@ If the agent is already capable of editing your repo, running tests, and diagnos
 `aweskill` provides a bootstrap document written for AI coding agents:
 
 ```text
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
 ```
 
 That instruction is enough for a capable coding agent to do the initial setup.
@@ -295,9 +295,9 @@ And that is why Skill management should not stay trapped in manual folder work.
 
 `aweskill` is part of the [Webioinfo](https://we.webioinfo.top/) ecosystem — a collection of small, agent-friendly tools for AI-assisted development:
 
-- **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — AI Agent Session bookmark manager for Claude Code and Codex. Bookmark, categorize, and restore AI coding sessions with aweswitch profiles.
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — Automated scientific literature discovery. Search, annotate, filter, and generate research reports with LLM-powered pipelines.
-- **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — Agent profile switcher. Launch sessions with different API endpoints, tokens, and models.
+- **[aweshelf](https://github.com/wehuman01/aweshelf)** — AI Agent Session bookmark manager for Claude Code and Codex. Bookmark, categorize, and restore AI coding sessions with aweswitch profiles.
+- **[awescholar](https://github.com/wehuman01/awescholar)** — Automated scientific literature discovery. Search, annotate, filter, and generate research reports with LLM-powered pipelines.
+- **[aweswitch](https://github.com/wehuman01/aweswitch)** — Agent profile switcher. Launch sessions with different API endpoints, tokens, and models.
 - **[aweteam](https://github.com/Webioinfo01/aweteam)** — AI coding team coordinator. Start a leader, delegate to configured workers, and keep conversations visible in tmux panes.
 - **[awecolor](https://github.com/Webioinfo01/awecolor)** — Hex color visualizer. Pipe text or pass files to render hex colors with their actual terminal background.
 
@@ -308,7 +308,7 @@ And that is why Skill management should not stay trapped in manual folder work.
 If you want the fastest path, ask your current coding agent:
 
 ```text
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
 ```
 
 After restart, try:

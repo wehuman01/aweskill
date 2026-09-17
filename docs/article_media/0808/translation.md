@@ -10,7 +10,7 @@
 
 等我回来时，安装通了，更新也通了，`SKILL.md` 里名字和描述都显示出来了，agent 还留了一段话总结它改了哪些地方。那个 `agent add` 流程在 macOS 上已经跑了几个月，现在在 Windows 上也能跑了。同一条命令，同一个结果，两种 shell 都通。之前觉得windows 终端管理太烦了，早就想换个mac 电脑，又赶上大涨价，还好aweskill 更新帮我守住钱包了。
 
-GitHub: [github.com/Webioinfo01/aweskill](https://github.com/Webioinfo01/aweskill)
+GitHub: [github.com/wehuman01/aweskill](https://github.com/wehuman01/aweskill)
 
 ## 修了几个 Bug
 
@@ -123,7 +123,7 @@ aweskill self-update
 aweskill 是 [Webioinfo](https://www.webioinfo.top/) 生态的一部分：
 
 - **[aweskill](https://aweskill.webioinfo.top/)** ——面向 47+ 种 AI 编程智能体的 CLI 优先技能包管理器
-- **[aweswitch](https://github.com/Webioinfo01/aweswitch)** ——Claude Code、Codex、OpenCode 的智能体档案切换器；启动的会话直接指向 awerouter 守护进程
-- **[aweshelf](https://github.com/Webioinfo01/aweshelf)** ——支持档案感知恢复的 AI 编程会话管理器
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — 自动化科学文献发现
-- **[awerouter](https://github.com/mugpeng/awerouter)** — 智能 LLM 路由器：基于请求的结构化信号，在 Flash（低成本）与 Pro（高能力）模型提供商之间自动分流，为 Agent 兼顾成本、速度与推理质量。
+- **[aweswitch](https://github.com/wehuman01/aweswitch)** ——Claude Code、Codex、OpenCode 的智能体档案切换器；启动的会话直接指向 awerouter 守护进程
+- **[aweshelf](https://github.com/wehuman01/aweshelf)** ——支持档案感知恢复的 AI 编程会话管理器
+- **[awescholar](https://github.com/wehuman01/awescholar)** — 自动化科学文献发现
+- **[awerouter](https://github.com/wehuman01/awerouter)** — 智能 LLM 路由器：基于请求的结构化信号，在 Flash（低成本）与 Pro（高能力）模型提供商之间自动分流，为 Agent 兼顾成本、速度与推理质量。

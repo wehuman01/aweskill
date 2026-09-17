@@ -42,7 +42,7 @@
 `aweskill` 提供了一份专门写给 AI 编码 Agent 的引导文档：
 
 ```text
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
 ```
 
 对一个有能力的 coding agent 来说，这一句就足够完成初始化。
@@ -290,7 +290,7 @@ Agent 可操作的工具，会改变开发者工作流的形状。
 最快的方式，是直接对当前 coding agent 说：
 
 ```text
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
 ```
 
 重启后，再试试：
@@ -313,6 +313,6 @@ Check whether this agent's Skill projection is healthy.
 
 **安装**：`npm install -g aweskill`
 
-**Agent 引导文档**：[README.ai.md](https://github.com/mugpeng/aweskill/blob/main/README.ai.md)
+**Agent 引导文档**：[README.ai.md](https://github.com/wehuman01/aweskill/blob/main/README.ai.md)
 
-**GitHub**：[github.com/mugpeng/aweskill](https://github.com/mugpeng/aweskill)
+**GitHub**：[github.com/wehuman01/aweskill](https://github.com/wehuman01/aweskill)

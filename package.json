@@ -58,11 +58,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Webioinfo01/aweskill.git"
+    "url": "git+https://github.com/wehuman01/aweskill.git"
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/Webioinfo01/aweskill/issues"
+    "url": "https://github.com/wehuman01/aweskill/issues"
   },
-  "homepage": "https://github.com/Webioinfo01/aweskill#readme"
+  "homepage": "https://github.com/wehuman01/aweskill#readme"
 }

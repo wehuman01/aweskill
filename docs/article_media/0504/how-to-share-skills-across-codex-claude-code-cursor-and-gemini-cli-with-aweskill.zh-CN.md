@@ -147,7 +147,7 @@ aweskill agent add bundle daily-coding --global --agent cursor
 这个工作流里最顺手的一点，是你不一定要自己手工完成引导。可以直接把安装协议交给当前 coding agent：
 
 ```text
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md and follow it to install aweskill.
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md and follow it to install aweskill.
 ```
 
 ![AI coding agent 按照 README.ai.md 安装 aweskill 并启用内置管理 skills 的示例截图。](../image/aweskill-agent-install-demo.png)
@@ -224,7 +224,7 @@ Agent 会代替你运行 `aweskill` 命令。这让 `aweskill` 从"你管理的�
 
 Claude Code、Cursor、Windsurf、Codex、GitHub Copilot、Gemini CLI、OpenCode、Goose、Amp、Roo Code、Kiro CLI、Kilo Code、Trae、Cline、Antigravity、Droid、Augment、OpenClaw、CodeBuddy、Crush、Kode、Mistral Vibe、Mux、OpenClaude IDE、OpenHands、Qoder、Qwen Code、Replit、Neovate、AdaL 等等。
 
-完整列表见 [README](https://github.com/mugpeng/aweskill#supported-agents)。
+完整列表见 [README](https://github.com/wehuman01/aweskill#supported-agents)。
 
 ## 什么时候该用 aweskill
 
@@ -254,6 +254,6 @@ Claude Code、Cursor、Windsurf、Codex、GitHub Copilot、Gemini CLI、OpenCode
 
 **立即安装**：`npm install -g aweskill`
 
-**GitHub**：[github.com/mugpeng/aweskill](https://github.com/mugpeng/aweskill)
+**GitHub**：[github.com/wehuman01/aweskill](https://github.com/wehuman01/aweskill)
 
 **npm**：[npmjs.com/package/aweskill](https://www.npmjs.com/package/aweskill)

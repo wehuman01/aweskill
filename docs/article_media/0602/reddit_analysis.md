@@ -101,8 +101,8 @@ The right tool for AI agents should be:
 
 Full disclosure: I built this. It's part of the Webioinfo ecosystem (also includes aweshelf for session bookmarks, awescholar for literature discovery, etc.).
 
-**GitHub**: https://github.com/mugpeng/aweskill
-**Agent docs**: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+**GitHub**: https://github.com/wehuman01/aweskill
+**Agent docs**: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 Curious what others think — is this the right abstraction, or am I solving a problem that'll resolve itself as agents get more capable?
 
@@ -156,8 +156,8 @@ Tools for AI agents should be:
 This is the model `aweskill` follows.
 
 **Links:**
-- GitHub: https://github.com/mugpeng/aweskill
-- Agent guide: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+- GitHub: https://github.com/wehuman01/aweskill
+- Agent guide: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 Would love feedback — is this the right level of abstraction, or will agent capabilities make this unnecessary?
 
@@ -185,7 +185,7 @@ When you use multiple AI coding tools (Claude Code, Codex, Cursor, Gemini CLI, e
 `aweskill` gives agents a protocol (`README.ai.md`) they can follow autonomously:
 
 ```
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 and install aweskill for this agent following the guide.
 ```
 
@@ -213,9 +213,9 @@ Tools for AI agents should be:
 - Recoverable when things break
 
 **Links:**
-- GitHub: https://github.com/mugpeng/aweskill
+- GitHub: https://github.com/wehuman01/aweskill
 - Live docs: https://aweskill.webioinfo.top/
-- Agent guide: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+- Agent guide: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 It's also part of a small ecosystem I'm building (Webioinfo) — includes session bookmarking (aweshelf), literature discovery (awescholar), and more.
 
@@ -241,7 +241,7 @@ I built `aweskill` — a CLI-first skill manager designed so that Claude Code (a
 Give Claude Code this instruction:
 
 ```
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 and install aweskill for this agent following the guide.
 ```
 
@@ -266,8 +266,8 @@ Claude Code will search, evaluate results, install the best match, project it to
 - State repair is automated — `aweskill-doctor` handles broken symlinks, malformed frontmatter, etc.
 
 **Links:**
-- GitHub: https://github.com/mugpeng/aweskill
-- Agent-specific guide: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+- GitHub: https://github.com/wehuman01/aweskill
+- Agent-specific guide: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 Full disclosure: I built this. Would love feedback from actual Claude Code users — does this solve a real pain point, or is it something you'd rather handle manually?
 
@@ -313,8 +313,8 @@ Tools for AI agents should be:
 - Recoverable (backup before major changes)
 
 **Links:**
-- GitHub: https://github.com/mugpeng/aweskill
-- Agent documentation: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+- GitHub: https://github.com/wehuman01/aweskill
+- Agent documentation: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 Would love to hear thoughts — is this the right direction for AI tooling, or will agents eventually handle this without specialized infrastructure?
 

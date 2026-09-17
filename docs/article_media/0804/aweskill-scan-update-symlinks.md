@@ -6,7 +6,7 @@ A few months ago, aweskill grew three things at once: a unified way to scan and 
 
 This article is about those three.
 
-GitHub: [github.com/Webioinfo01/aweskill](https://github.com/Webioinfo01/aweskill)
+GitHub: [github.com/wehuman01/aweskill](https://github.com/wehuman01/aweskill)
 
 ## The Imports Were Two Commands by Accident
 
@@ -60,7 +60,7 @@ This is the kind of decision that looks small in a changelog and large in user e
 
 This one is the most technical of the three, but the user-facing symptom is simple: a projection that works in the main repo sometimes dangles in a nested git worktree.
 
-> Thanks to [Kang-chen](https://github.com/kang-chen) for opening [PR #13](https://github.com/Webioinfo01/aweskill/pull/13) — the original patch landed the `AWESKILL_ABSOLUTE_SYMLINKS=1` env var and the focused tests. v0.3.8 builds on top of it by promoting the env var to a discoverable `--absolute` flag.
+> Thanks to [Kang-chen](https://github.com/kang-chen) for opening [PR #13](https://github.com/wehuman01/aweskill/pull/13) — the original patch landed the `AWESKILL_ABSOLUTE_SYMLINKS=1` env var and the focused tests. v0.3.8 builds on top of it by promoting the env var to a discoverable `--absolute` flag.
 
 ### The shape of the bug
 
@@ -143,6 +143,6 @@ That is the whole release.
 
 aweskill is part of the [Webioinfo](https://www.webioinfo.top/) ecosystem:
 
-- **[aweswitch](https://github.com/mugpeng/aweswitch)** — Agent profile switcher (Claude, Codex, OpenCode)
-- **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — AI coding session manager with profile-aware restoration
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — Automated scientific literature discovery
+- **[aweswitch](https://github.com/wehuman01/aweswitch)** — Agent profile switcher (Claude, Codex, OpenCode)
+- **[aweshelf](https://github.com/wehuman01/aweshelf)** — AI coding session manager with profile-aware restoration
+- **[awescholar](https://github.com/wehuman01/awescholar)** — Automated scientific literature discovery

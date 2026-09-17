@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./logo.png" alt="aweskill" width="760">
-  <h1>aweskill: Skill Package Manager for AI Agents <a href="https://github.com/Webioinfo01/aweskill"><img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge.svg" alt="aweskill"></a></h1>
+  <h1>aweskill: Skill Package Manager for AI Agents <a href="https://github.com/wehuman01/aweskill"><img src="https://raw.githubusercontent.com/wehuman01/aweskill/main/logo/aweskill-badge.svg" alt="aweskill"></a></h1>
   <p><strong>A CLI-first skill package manager that AI agents can operate themselves.</strong></p>
   <p>Install, update, bundle, and project skills across Codex, Claude Code, Cursor, Gemini CLI, Qwen Code, Windsurf, and more.</p>
   <p><strong>One CLI, identical commands on Ubuntu, macOS, and Windows.</strong></p>
@@ -14,9 +14,9 @@
     <a href="https://ko-fi.com/mugpeng"><img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
   </p>
   <p>
-    <a href="https://github.com/Webioinfo01/aweskill/releases"><img src="https://img.shields.io/badge/version-0.4.8-7C3AED?style=flat-square" alt="Version"></a>
-    <a href="https://github.com/Webioinfo01/aweskill"><img src="https://img.shields.io/badge/node-%E2%89%A520-0EA5E9?style=flat-square" alt="Node"></a>
-    <a href="https://github.com/Webioinfo01/aweskill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License"></a>
+    <a href="https://github.com/wehuman01/aweskill/releases"><img src="https://img.shields.io/badge/version-0.4.8-7C3AED?style=flat-square" alt="Version"></a>
+    <a href="https://github.com/wehuman01/aweskill"><img src="https://img.shields.io/badge/node-%E2%89%A520-0EA5E9?style=flat-square" alt="Node"></a>
+    <a href="https://github.com/wehuman01/aweskill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License"></a>
     <a href="https://aweskill.webioinfo.top/"><img src="https://img.shields.io/badge/website-aweskill.webioinfo.top-7C3AED?style=flat-square" alt="Website"></a>
   </p>
   <p>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/projection-symlink-1f2328?style=flat-square" alt="Projection mode">
 		<img src="https://img.shields.io/badge/platform-ubuntu%20%7C%20macOS%20%7C%20windows-334155?style=flat-square" alt="Platform">
     <img src="https://img.shields.io/npm/dt/aweskill?style=flat-square" alt="npm downloads">
-    <img src="https://img.shields.io/github/stars/Webioinfo01/aweskill?style=flat-square" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/wehuman01/aweskill?style=flat-square" alt="GitHub stars">
     <img src="https://img.shields.io/badge/platform-local%20CLI-334155?style=flat-square" alt="Local CLI">
   </p>
 </div>
@@ -54,7 +54,7 @@ If you are working inside Codex, Claude Code, Cursor, or another coding agent, j
 You can tell your agent:
 
 ```text
-Read https://github.com/Webioinfo01/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
 ```
 
 Working outside a coding agent and prefer to do it yourself? Install globally with npm (requires [Node.js](https://nodejs.org/) 20 or later), then initialize the central store — the commands are in the folded blocks below.
@@ -94,7 +94,7 @@ npm run build
 npm install -g .
 
 # Install the dev version from GitHub (dev branch contains in-progress changes and may be unstable)
-npm install -g Webioinfo01/aweskill#dev
+npm install -g wehuman01/aweskill#dev
 
 # Local development link
 npm install
@@ -385,15 +385,15 @@ If your project uses aweskill and you'd like to show support, add one of these b
 Example using `aweskill-badge2.svg`:
 
 ```html
-<a href="https://github.com/Webioinfo01/aweskill">
-  <img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge2.svg" alt="aweskill companion">
+<a href="https://github.com/wehuman01/aweskill">
+  <img src="https://raw.githubusercontent.com/wehuman01/aweskill/main/logo/aweskill-badge2.svg" alt="aweskill companion">
 </a>
 ```
 
 Place it in your README title, e.g.:
 
 ```markdown
-# My Project <a href="https://github.com/Webioinfo01/aweskill"><img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge2.svg" alt="aweskill companion"></a>
+# My Project <a href="https://github.com/wehuman01/aweskill"><img src="https://raw.githubusercontent.com/wehuman01/aweskill/main/logo/aweskill-badge2.svg" alt="aweskill companion"></a>
 ```
 
 ## FAQ
@@ -753,14 +753,14 @@ aweskill agent add bundle awe --agent claude-code
 ### CLI Tools
 
 - **[aweskill](https://aweskill.webioinfo.top/)** — CLI-first skill package manager supporting 48+ AI coding agents.
-- **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — Agent profile switcher for Claude Code, Codex, and OpenCode.
+- **[aweswitch](https://github.com/wehuman01/aweswitch)** — Agent profile switcher for Claude Code, Codex, and OpenCode.
 - **[awerouter](https://github.com/wehuman01/awerouter)** — Smart router that splits requests between Flash and Pro models using structural signals, cutting unnecessary model spend.
 - **[awecompress](https://github.com/wehuman01/awecompress)** — Transparent context-compression proxy for coding agents: frozen summaries for long sessions, stackable with awerouter.
-- **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — Bookmark, categorize, and restore AI coding sessions; pairs with aweswitch to save profiles and launch with one command.
+- **[aweshelf](https://github.com/wehuman01/aweshelf)** — Bookmark, categorize, and restore AI coding sessions; pairs with aweswitch to save profiles and launch with one command.
 - **[aweshare](https://github.com/wehuman01/aweshare)** — Share local Ollama/vLLM backends, domestic coding plans, or authorized OpenAI/Anthropic subscriptions through a self-hosted hub — a sharing economy for tokens.
 - **[awewarm](https://github.com/wehuman01/awewarm)** — Subscription window warmer that keeps AI coding-plan windows active, for local setups and through a remote hub server.
 - **[awewarm-hub](https://github.com/wehuman01/awewarm-hub)** — Multi-tenant hub server for awewarm: invites, tenant capacity limits, and shared warm-up windows.
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — AI-agent-operable scientific literature discovery and curation. Search, annotate, filter, and report on academic papers.
+- **[awescholar](https://github.com/wehuman01/awescholar)** — AI-agent-operable scientific literature discovery and curation. Search, annotate, filter, and report on academic papers.
 
 ### Desktop Apps
 

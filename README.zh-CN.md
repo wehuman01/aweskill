@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./logo.png" alt="aweskill" width="760">
-  <h1>aweskill：面向 AI Agents 的 Skill 包管理器 <a href="https://github.com/Webioinfo01/aweskill"><img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge.svg" alt="aweskill"></a></h1>
+  <h1>aweskill：面向 AI Agents 的 Skill 包管理器 <a href="https://github.com/wehuman01/aweskill"><img src="https://raw.githubusercontent.com/wehuman01/aweskill/main/logo/aweskill-badge.svg" alt="aweskill"></a></h1>
   <p><strong>以 CLI 为核心的 Skill 包管理器，AI agent 也能自己调用和维护。</strong></p>
   <p>在 Codex、Claude Code、Cursor、Gemini CLI、Qwen Code、Windsurf 等工具之间安装、更新、打包并投影 skills。</p>
   <p><strong>一套 CLI，在 Ubuntu、macOS 和 Windows 上命令完全一致。</strong></p>
@@ -14,9 +14,9 @@
     <a href="https://ko-fi.com/mugpeng"><img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
   </p>
   <p>
-    <a href="https://github.com/Webioinfo01/aweskill/releases"><img src="https://img.shields.io/badge/version-0.4.8-7C3AED?style=flat-square" alt="Version"></a>
-    <a href="https://github.com/Webioinfo01/aweskill"><img src="https://img.shields.io/badge/node-%E2%89%A520-0EA5E9?style=flat-square" alt="Node"></a>
-    <a href="https://github.com/Webioinfo01/aweskill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License"></a>
+    <a href="https://github.com/wehuman01/aweskill/releases"><img src="https://img.shields.io/badge/version-0.4.8-7C3AED?style=flat-square" alt="Version"></a>
+    <a href="https://github.com/wehuman01/aweskill"><img src="https://img.shields.io/badge/node-%E2%89%A520-0EA5E9?style=flat-square" alt="Node"></a>
+    <a href="https://github.com/wehuman01/aweskill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License"></a>
     <a href="https://aweskill.webioinfo.top/"><img src="https://img.shields.io/badge/website-aweskill.webioinfo.top-7C3AED?style=flat-square" alt="Website"></a>
   </p>
   <p>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/projection-symlink-1f2328?style=flat-square" alt="Projection mode">
     <img src="https://img.shields.io/badge/platform-ubuntu%20%7C%20macOS%20%7C%20windows-334155?style=flat-square" alt="Platform">
     <img src="https://img.shields.io/npm/dt/aweskill?style=flat-square" alt="npm downloads">
-    <img src="https://img.shields.io/github/stars/Webioinfo01/aweskill?style=flat-square" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/wehuman01/aweskill?style=flat-square" alt="GitHub stars">
     <img src="https://img.shields.io/badge/platform-local%20CLI-334155?style=flat-square" alt="Local CLI">
   </p>
 </div>
@@ -52,7 +52,7 @@
 可以直接对 agent 说：
 
 ```text
-读取 https://github.com/Webioinfo01/aweskill/blob/main/README.ai.md 并按照说明为当前 agent 安装 aweskill。
+读取 https://github.com/wehuman01/aweskill/blob/main/README.ai.md 并按照说明为当前 agent 安装 aweskill。
 ```
 
 不在编码 agent 里、想自己动手的话，用 npm 全局安装（需要 [Node.js](https://nodejs.org/) 20 及以上），再初始化中央仓库，命令收在下面的折叠块里。
@@ -83,7 +83,7 @@ npm run build
 npm install -g .
 
 # 从 GitHub 安装开发版（dev 分支包含开发中的改动，可能不稳定）
-npm install -g Webioinfo01/aweskill#dev
+npm install -g wehuman01/aweskill#dev
 
 # 本地开发模式
 npm install
@@ -374,15 +374,15 @@ aweskill doctor sync --global --agent codex --apply --remove-suspicious
 以 `aweskill-badge2.svg` 为例：
 
 ```html
-<a href="https://github.com/Webioinfo01/aweskill">
-  <img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge2.svg" alt="aweskill companion">
+<a href="https://github.com/wehuman01/aweskill">
+  <img src="https://raw.githubusercontent.com/wehuman01/aweskill/main/logo/aweskill-badge2.svg" alt="aweskill companion">
 </a>
 ```
 
 放在 README 标题中，例如：
 
 ```markdown
-# My Project <a href="https://github.com/Webioinfo01/aweskill"><img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge2.svg" alt="aweskill companion"></a>
+# My Project <a href="https://github.com/wehuman01/aweskill"><img src="https://raw.githubusercontent.com/wehuman01/aweskill/main/logo/aweskill-badge2.svg" alt="aweskill companion"></a>
 ```
 
 ## FAQ
@@ -742,14 +742,14 @@ aweskill agent add bundle awe --agent claude-code
 ### CLI 工具
 
 - **[aweskill](https://aweskill.webioinfo.top/)** — CLI 优先的技能包管理器，支持 48+ AI 编程 agent。
-- **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — Claude Code、Codex、OpenCode 的 agent 配置切换器。
+- **[aweswitch](https://github.com/wehuman01/aweswitch)** — Claude Code、Codex、OpenCode 的 agent 配置切换器。
 - **[awerouter](https://github.com/wehuman01/awerouter)** — 智能路由器，用结构信号把请求分给 Flash 或 Pro 模型，减少不必要的模型开销。
 - **[awecompress](https://github.com/wehuman01/awecompress)** — 面向编程 agent 的透明上下文压缩代理：长会话冻结摘要，可与 awerouter 叠加使用。
-- **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — 收藏、分类、恢复 AI 编程会话，还能搭配 aweswitch 实现保存配置，一键启动。
+- **[aweshelf](https://github.com/wehuman01/aweshelf)** — 收藏、分类、恢复 AI 编程会话，还能搭配 aweswitch 实现保存配置，一键启动。
 - **[aweshare](https://github.com/wehuman01/aweshare)** — 通过自建 Hub 共享本地 Ollama/vLLM，或国产厂商 coding plan，或已授权的 OpenAI/Anthropic 帐号订阅，实现 token 的共享经济。
 - **[awewarm](https://github.com/wehuman01/awewarm)** — 订阅窗口保持器，让 AI 编程套餐的窗口持续激活，无论是本地设置，还是通过远程连接的服务器。
 - **[awewarm-hub](https://github.com/wehuman01/awewarm-hub)** — awewarm 的多租户 Hub 服务器：邀请码、租户容量上限、共享保温窗口。
-- **[awescholar](https://github.com/Webioinfo01/awescholar)** — AI agent 可自主执行的科学文献发现与策展，搜索、标注、筛选和报告学术论文。
+- **[awescholar](https://github.com/wehuman01/awescholar)** — AI agent 可自主执行的科学文献发现与策展，搜索、标注、筛选和报告学术论文。
 
 ### 桌面应用
 

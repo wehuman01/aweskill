@@ -147,7 +147,7 @@ Central store restored. Bundle re-projected. Back to work.
 One of the cleanest parts of the workflow is that you do not need to perform the bootstrap manually. You can hand the protocol to your coding agent directly:
 
 ```text
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md and follow it to install aweskill.
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md and follow it to install aweskill.
 ```
 
 ![Example of an AI coding agent following README.ai.md to install aweskill and activate the built-in management skills.](../image/aweskill-agent-install-demo.png)
@@ -224,7 +224,7 @@ The agent runs `aweskill` commands on your behalf. This turns `aweskill` from a 
 
 Claude Code, Cursor, Windsurf, Codex, GitHub Copilot, Gemini CLI, OpenCode, Goose, Amp, Roo Code, Kiro CLI, Kilo Code, Trae, Cline, Antigravity, Droid, Augment, OpenClaw, CodeBuddy, Crush, Kode, Mistral Vibe, Mux, OpenClaude IDE, OpenHands, Qoder, Qwen Code, Replit, Neovate, AdaL, and more.
 
-See the [full list in the README](https://github.com/mugpeng/aweskill#supported-agents).
+See the [full list in the README](https://github.com/wehuman01/aweskill#supported-agents).
 
 ## When to Use aweskill
 
@@ -254,6 +254,6 @@ If you work across multiple AI agents, `aweskill` turns scattered skill folders 
 
 **Install now**: `npm install -g aweskill`
 
-**GitHub**: [github.com/mugpeng/aweskill](https://github.com/mugpeng/aweskill)
+**GitHub**: [github.com/wehuman01/aweskill](https://github.com/wehuman01/aweskill)
 
 **npm**: [npmjs.com/package/aweskill](https://www.npmjs.com/package/aweskill)

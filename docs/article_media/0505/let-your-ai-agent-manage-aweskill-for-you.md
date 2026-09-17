@@ -42,7 +42,7 @@ If the agent is already capable of editing your repo, running tests, and diagnos
 `aweskill` provides a bootstrap document written for AI coding agents:
 
 ```text
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
 ```
 
 That instruction is enough for a capable coding agent to do the initial setup.
@@ -290,7 +290,7 @@ And that is why Skill management should not stay trapped in manual folder work.
 If you want the fastest path, ask your current coding agent:
 
 ```text
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md and follow it to install aweskill for this agent.
 ```
 
 After restart, try:
@@ -313,6 +313,6 @@ If those three requests work, your agent is no longer just using Skills. It can 
 
 **Install**: `npm install -g aweskill`
 
-**Agent bootstrap**: [README.ai.md](https://github.com/mugpeng/aweskill/blob/main/README.ai.md)
+**Agent bootstrap**: [README.ai.md](https://github.com/wehuman01/aweskill/blob/main/README.ai.md)
 
-**GitHub**: [github.com/mugpeng/aweskill](https://github.com/mugpeng/aweskill)
+**GitHub**: [github.com/wehuman01/aweskill](https://github.com/wehuman01/aweskill)

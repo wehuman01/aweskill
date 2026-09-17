@@ -17,7 +17,7 @@ When you use multiple AI coding tools (Claude Code, Codex, Cursor, Gemini CLI, W
 `aweskill` gives agents a protocol (`README.ai.md`) they can follow autonomously:
 
 ```
-Read https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+Read https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 and install aweskill for this agent following the guide.
 ```
 
@@ -45,9 +45,9 @@ Tools for AI agents should be:
 - Recoverable when things break
 
 **Links:**
-- GitHub: https://github.com/mugpeng/aweskill
+- GitHub: https://github.com/wehuman01/aweskill
 - Live docs: https://aweskill.webioinfo.top/
-- Agent guide: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+- Agent guide: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 It's also part of a small ecosystem I'm building (Webioinfo) — includes session bookmarking (aweshelf), literature discovery (awescholar), and more.
 

@@ -12,7 +12,7 @@
 
 ## v0.4.8 - 2026-09-13
 
-`v0.4.8` adds WorkBuddy AI as a supported agent, finishes the move to `Webioinfo01/aweskill`, and teaches `doctor` the difference between a copy projection that drifted and a skill another tool owns.
+`v0.4.8` adds WorkBuddy AI as a supported agent, finishes the move to `wehuman01/aweskill`, and teaches `doctor` the difference between a copy projection that drifted and a skill another tool owns.
 
 ### Features
 
@@ -23,7 +23,7 @@
 
 ### Fixes
 
-- Point built-in skill sources and self-update at `Webioinfo01/aweskill` (the repository moved from `mugpeng/aweskill`), and update the tests and the contributing guide's clone URL that still pinned the old location
+- Point built-in skill sources and self-update at `wehuman01/aweskill` (the repository moved from `wehuman01/aweskill`), and update the tests and the contributing guide's clone URL that still pinned the old location
 - Disable the npm update check in the test environment; the two `main()`-based integration tests that intermittently timed out were waiting on that registry call
 
 ### DX
@@ -322,7 +322,7 @@ Added reusable bundle templates for Baoyu publishing workflows in `resources/bun
 
 ### Official website
 
-The [aweskill-web](https://github.com/mugpeng/aweskill/tree/main/aweskill-web) project was added as the official website for the CLI tool. It is built with Astro and Tailwind CSS, supporting both English and Chinese content. The site badge was added to both `README.md` and `README.zh-CN.md`.
+The [aweskill-web](https://github.com/wehuman01/aweskill/tree/main/aweskill-web) project was added as the official website for the CLI tool. It is built with Astro and Tailwind CSS, supporting both English and Chinese content. The site badge was added to both `README.md` and `README.zh-CN.md`.
 
 ### `aweskill self-update`
 
@@ -348,7 +348,7 @@ The npm mode fetches the latest version from the registry and runs `npm install 
 
 ### Built-in skill source tracking
 
-When `aweskill store init` copies the bundled `aweskill` and `aweskill-doctor` skills into the central store, it now writes a lock entry with `source: mugpeng/aweskill`, `sourceType: github`, and the computed directory hash. This means after a fresh install, running `aweskill update` can pull the latest versions of these skills from GitHub — previously they were unmanaged copies with no source record.
+When `aweskill store init` copies the bundled `aweskill` and `aweskill-doctor` skills into the central store, it now writes a lock entry with `source: wehuman01/aweskill`, `sourceType: github`, and the computed directory hash. This means after a fresh install, running `aweskill update` can pull the latest versions of these skills from GitHub — previously they were unmanaged copies with no source record.
 
 ### AI-facing documentation
 

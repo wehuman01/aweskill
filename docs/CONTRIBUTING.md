@@ -32,7 +32,7 @@ Keep setup simple and reproducible:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Webioinfo01/aweskill.git
+git clone https://github.com/wehuman01/aweskill.git
 cd aweskill
 
 # Install dependencies

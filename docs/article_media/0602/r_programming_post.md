@@ -43,8 +43,8 @@ Tools for AI agents should be:
 This is the model `aweskill` follows.
 
 **Links:**
-- GitHub: https://github.com/mugpeng/aweskill
-- Agent guide: https://github.com/mugpeng/aweskill/blob/main/README.ai.md
+- GitHub: https://github.com/wehuman01/aweskill
+- Agent guide: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 Would love feedback — is this the right level of abstraction, or will agent capabilities make this unnecessary?
 
