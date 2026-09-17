@@ -750,15 +750,18 @@ aweskill agent add bundle awe --agent claude-code
 - **[awewarm](https://github.com/wehuman01/awewarm)** — 订阅窗口保持器，让 AI 编程套餐的窗口持续激活，无论是本地设置，还是通过远程连接的服务器。
 - **[awewarm-hub](https://github.com/wehuman01/awewarm-hub)** — awewarm 的多租户 Hub 服务器：邀请码、租户容量上限、共享保温窗口。
 - **[awescholar](https://github.com/wehuman01/awescholar)** — AI agent 可自主执行的科学文献发现与策展，搜索、标注、筛选和报告学术论文。
+- **[awecontrib](https://github.com/wehuman01/awecontrib)** — 每个仓库一条 verify 入口：写入一个小的 verify 脚本和最小 CI，本地和 CI 跑的是同一条命令。
 
 ### 桌面应用
 
+- **[awefork](https://github.com/wehuman01/awefork)** — 把 AI 编程 agent 的会话变成一棵树的桌面工作台：任意一轮，随时分叉，每条分支都留着；搭配 aweswitch 用更顺手 — 用 profile 启动会话，再回来分叉它的历史。
 - **[awedot](https://awedot.wehuman.top/)** — 悬浮球驻留屏幕边缘，实时追踪当前 AI 会话；一键收藏、随时恢复，并可搭配 aweswitch 固定 agent 配置（比如用 GLM 模型启动）。
 
 ### Project Collections
 
 - **[Awesome AI Meets Biology](https://github.com/Webioinfo01/Awesome-AI-Meets-Biology)** — AI 在生物学、生物信息学和生物医学研究中应用的精选综述。由 awescholar 驱动。
 - **[Awesome AI Virtual Tumor](https://github.com/Webioinfo01/Awesome-AI-Virtual-Tumor)** — 面向虚拟肿瘤建模与仿真的前沿 AI 系统精选合集：静态模型、动态模型、agent、基准与综述。
+- **[AgentX](https://github.com/Webioinfo01/agentx-hub)** — 科研 AI agent 社区目录：Verified Run 评审、实时 GitHub 指标和月度报告，由 awescholar 校验流水线策展。
 
 ## 许可证
 
