@@ -7,7 +7,7 @@
   <p>
     <a href="./README.md">English</a> ·
     <strong>简体中文</strong> ·
-    <a href="https://aweskill.webioinfo.top/">官网</a> ·
+    <a href="https://aweskill.wehuman.top/">官网</a> ·
     <a href="https://we.webioinfo.top/">Webioinfo</a>
   </p>
   <p>
@@ -17,7 +17,7 @@
     <a href="https://github.com/wehuman01/aweskill/releases"><img src="https://img.shields.io/badge/version-0.4.8-7C3AED?style=flat-square" alt="Version"></a>
     <a href="https://github.com/wehuman01/aweskill"><img src="https://img.shields.io/badge/node-%E2%89%A520-0EA5E9?style=flat-square" alt="Node"></a>
     <a href="https://github.com/wehuman01/aweskill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License"></a>
-    <a href="https://aweskill.webioinfo.top/"><img src="https://img.shields.io/badge/website-aweskill.webioinfo.top-7C3AED?style=flat-square" alt="Website"></a>
+    <a href="https://aweskill.wehuman.top/"><img src="https://img.shields.io/badge/website-aweskill.wehuman.top-7C3AED?style=flat-square" alt="Website"></a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/status-beta-c96a3d?style=flat-square" alt="Status">
@@ -39,7 +39,7 @@
 
 你不需要再把同一套 `SKILL.md` 文件夹手动复制到每个工具里。`aweskill` 会把 `~/.aweskill/skills/` 作为唯一中央仓库，再通过 `symlink`、junction 或受管 `copy`，把选中的 skill 投影到每个 agent 需要的目录。
 
-> **项目网站：**[aweskill.webioinfo.top](https://aweskill.webioinfo.top/) — 包含安装指南和 Agent 兼容性概览。
+> **项目网站：**[aweskill.wehuman.top](https://aweskill.wehuman.top/) — 包含安装指南和 Agent 兼容性概览。
 
 ## 快速开始
 
@@ -741,7 +741,7 @@ aweskill agent add bundle awe --agent claude-code
 
 ### CLI 工具
 
-- **[aweskill](https://aweskill.webioinfo.top/)** — CLI 优先的技能包管理器，支持 48+ AI 编程 agent。
+- **[aweskill](https://aweskill.wehuman.top/)** — CLI 优先的技能包管理器，支持 48+ AI 编程 agent。
 - **[aweswitch](https://github.com/wehuman01/aweswitch)** — Claude Code、Codex、OpenCode 的 agent 配置切换器。
 - **[awerouter](https://github.com/wehuman01/awerouter)** — 智能路由器，用结构信号把请求分给 Flash 或 Pro 模型，减少不必要的模型开销。
 - **[awecompress](https://github.com/wehuman01/awecompress)** — 面向编程 agent 的透明上下文压缩代理：长会话冻结摘要，可与 awerouter 叠加使用。

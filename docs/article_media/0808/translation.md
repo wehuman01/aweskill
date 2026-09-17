@@ -122,7 +122,7 @@ aweskill self-update
 
 aweskill 是 [Webioinfo](https://www.webioinfo.top/) 生态的一部分：
 
-- **[aweskill](https://aweskill.webioinfo.top/)** ——面向 47+ 种 AI 编程智能体的 CLI 优先技能包管理器
+- **[aweskill](https://aweskill.wehuman.top/)** ——面向 47+ 种 AI 编程智能体的 CLI 优先技能包管理器
 - **[aweswitch](https://github.com/wehuman01/aweswitch)** ——Claude Code、Codex、OpenCode 的智能体档案切换器；启动的会话直接指向 awerouter 守护进程
 - **[aweshelf](https://github.com/wehuman01/aweshelf)** ——支持档案感知恢复的 AI 编程会话管理器
 - **[awescholar](https://github.com/wehuman01/awescholar)** — 自动化科学文献发现

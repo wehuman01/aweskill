@@ -7,7 +7,7 @@
   <p>
     <strong>English</strong> ·
     <a href="./README.zh-CN.md">简体中文</a> ·
-    <a href="https://aweskill.webioinfo.top/">Website</a> ·
+    <a href="https://aweskill.wehuman.top/">Website</a> ·
     <a href="https://we.webioinfo.top/">Webioinfo</a>
   </p>
   <p>
@@ -17,7 +17,7 @@
     <a href="https://github.com/wehuman01/aweskill/releases"><img src="https://img.shields.io/badge/version-0.4.8-7C3AED?style=flat-square" alt="Version"></a>
     <a href="https://github.com/wehuman01/aweskill"><img src="https://img.shields.io/badge/node-%E2%89%A520-0EA5E9?style=flat-square" alt="Node"></a>
     <a href="https://github.com/wehuman01/aweskill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License"></a>
-    <a href="https://aweskill.webioinfo.top/"><img src="https://img.shields.io/badge/website-aweskill.webioinfo.top-7C3AED?style=flat-square" alt="Website"></a>
+    <a href="https://aweskill.wehuman.top/"><img src="https://img.shields.io/badge/website-aweskill.wehuman.top-7C3AED?style=flat-square" alt="Website"></a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/status-beta-c96a3d?style=flat-square" alt="Status">
@@ -41,7 +41,7 @@ It helps developers find, install, update, bundle, deduplicate, back up, and reu
 
 Instead of copying the same `SKILL.md` folders into every tool by hand, `aweskill` keeps one central source of truth in `~/.aweskill/skills/` and projects selected skills into each agent's expected directory using `symlink`, junction, or managed `copy`.
 
-> **Website:** [aweskill.webioinfo.top](https://aweskill.webioinfo.top/) — project homepage with install guides and agent compatibility overview.
+> **Website:** [aweskill.wehuman.top](https://aweskill.wehuman.top/) — project homepage with install guides and agent compatibility overview.
 
 ## Quick Start
 
@@ -752,7 +752,7 @@ aweskill agent add bundle awe --agent claude-code
 
 ### CLI Tools
 
-- **[aweskill](https://aweskill.webioinfo.top/)** — CLI-first skill package manager supporting 48+ AI coding agents.
+- **[aweskill](https://aweskill.wehuman.top/)** — CLI-first skill package manager supporting 48+ AI coding agents.
 - **[aweswitch](https://github.com/wehuman01/aweswitch)** — Agent profile switcher for Claude Code, Codex, and OpenCode.
 - **[awerouter](https://github.com/wehuman01/awerouter)** — Smart router that splits requests between Flash and Pro models using structural signals, cutting unnecessary model spend.
 - **[awecompress](https://github.com/wehuman01/awecompress)** — Transparent context-compression proxy for coding agents: frozen summaries for long sessions, stackable with awerouter.

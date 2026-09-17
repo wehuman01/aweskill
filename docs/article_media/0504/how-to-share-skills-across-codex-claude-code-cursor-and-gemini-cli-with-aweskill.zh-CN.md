@@ -8,7 +8,7 @@
 
 这就是 `aweskill` 要解决的问题。
 
-官网：[aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
+官网：[aweskill.wehuman.top](https://aweskill.wehuman.top/)
 
 ## 真正的问题不是第一天——是第三十天
 
@@ -40,7 +40,7 @@
 | 4 | **来源追踪更新** | `aweskill` 记录每个 skill 来自哪里。`aweskill update` 拉取上游更新，同时保护你的本地修改。 |
 | 5 | **内置 Agent 管理技能** | 自带 `aweskill` 和 `aweskill-doctor` 元技能——AI agent 能通过自然语言管理 skill。 |
 | 6 | **本地维护能力** | 备份、恢复、查重、清理、同步、修复——全部集成在一个 CLI 里。 |
-| 7 | **官网与文档入口** | [aweskill.webioinfo.top](https://aweskill.webioinfo.top/) 提供安装说明、定位说明和 agent 兼容性总览。 |
+| 7 | **官网与文档入口** | [aweskill.wehuman.top](https://aweskill.wehuman.top/) 提供安装说明、定位说明和 agent 兼容性总览。 |
 
 ## 对比：aweskill vs 其他工具
 
@@ -250,7 +250,7 @@ Claude Code、Cursor、Windsurf、Codex、GitHub Copilot、Gemini CLI、OpenCode
 
 ---
 
-**官网**：[aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
+**官网**：[aweskill.wehuman.top](https://aweskill.wehuman.top/)
 
 **立即安装**：`npm install -g aweskill`
 

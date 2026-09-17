@@ -16,7 +16,7 @@ It is:
 
 That is one of the quiet but important ideas behind `aweskill`: it is a CLI-first Skill package manager that AI agents can operate themselves.
 
-Website: [aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
+Website: [aweskill.wehuman.top](https://aweskill.wehuman.top/)
 
 ## The Old Workflow: You Manage the Agent's Tools
 
@@ -309,7 +309,7 @@ If those three requests work, your agent is no longer just using Skills. It can 
 
 ---
 
-**Website**: [aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
+**Website**: [aweskill.wehuman.top](https://aweskill.wehuman.top/)
 
 **Install**: `npm install -g aweskill`
 

@@ -16,7 +16,7 @@ It is:
 
 That is one of the quiet but important ideas behind `aweskill`: it is a CLI-first Skill package manager that AI agents can operate themselves.
 
-Website: [aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
+Website: [aweskill.wehuman.top](https://aweskill.wehuman.top/)
 
 It is already used as supporting infrastructure for several Webioinfo projects:
 

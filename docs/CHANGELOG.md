@@ -318,7 +318,7 @@ Added reusable bundle templates for Baoyu publishing workflows in `resources/bun
 
 ## v0.3.1
 
-`v0.3.1` adds the official website for aweskill. Since `v0.3.0`, the project now has a public site at [aweskill.webioinfo.top](https://aweskill.webioinfo.top) with install guides, agent compatibility overview, and bilingual support (English and Chinese). The website also includes the contribution guidelines in `aweskill-web/docs/contribution.md`.
+`v0.3.1` adds the official website for aweskill. Since `v0.3.0`, the project now has a public site at [aweskill.wehuman.top](https://aweskill.wehuman.top) with install guides, agent compatibility overview, and bilingual support (English and Chinese). The website also includes the contribution guidelines in `aweskill-web/docs/contribution.md`.
 
 ### Official website
 
@@ -336,7 +336,7 @@ The npm mode fetches the latest version from the registry and runs `npm install 
 
 ### Highlights
 
-- Added official website at [aweskill.webioinfo.top](https://aweskill.webioinfo.top)
+- Added official website at [aweskill.wehuman.top](https://aweskill.wehuman.top)
 - Website built with Astro + Tailwind CSS, bilingual support
 - Added `aweskill self-update` command with `--dev` and `--check` flags
 - npm stable and GitHub dev branch update sources

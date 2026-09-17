@@ -8,7 +8,7 @@ A month later, one copy is outdated, one copy is broken, one has local edits nob
 
 That is the problem `aweskill` solves.
 
-Website: [aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
+Website: [aweskill.wehuman.top](https://aweskill.wehuman.top/)
 
 ## The Problem Is Not Day One — It Is Day Thirty
 
@@ -40,7 +40,7 @@ It keeps one central skill store in `~/.aweskill/skills/`, then projects selecte
 | 4 | **Source-Aware Updates** | `aweskill` records where each skill came from. `aweskill update` pulls upstream changes while protecting your local edits. |
 | 5 | **Built-in Agent Skills** | Ships `aweskill` and `aweskill-doctor` meta-skills — so your AI agents can manage skills through natural language. |
 | 6 | **Local Maintenance** | Backup, restore, dedup, clean, sync, recover — all built into one CLI. No manual folder archaeology. |
-| 7 | **Website + Docs** | The project site at [aweskill.webioinfo.top](https://aweskill.webioinfo.top/) gives install guides, positioning, and agent compatibility in one place. |
+| 7 | **Website + Docs** | The project site at [aweskill.wehuman.top](https://aweskill.wehuman.top/) gives install guides, positioning, and agent compatibility in one place. |
 
 ## How It Compares
 
@@ -250,7 +250,7 @@ If you work across multiple AI agents, `aweskill` turns scattered skill folders 
 
 ---
 
-**Website**: [aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
+**Website**: [aweskill.wehuman.top](https://aweskill.wehuman.top/)
 
 **Install now**: `npm install -g aweskill`
 

@@ -214,7 +214,7 @@ Tools for AI agents should be:
 
 **Links:**
 - GitHub: https://github.com/wehuman01/aweskill
-- Live docs: https://aweskill.webioinfo.top/
+- Live docs: https://aweskill.wehuman.top/
 - Agent guide: https://github.com/wehuman01/aweskill/blob/main/README.ai.md
 
 It's also part of a small ecosystem I'm building (Webioinfo) — includes session bookmarking (aweshelf), literature discovery (awescholar), and more.

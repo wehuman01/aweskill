@@ -16,7 +16,7 @@
 
 这正是 `aweskill` 里一个不张扬但很关键的设计点：它是一个以 CLI 为核心、AI Agent 也能自主操作的 Skill 包管理器。
 
-官网：[aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
+官网：[aweskill.wehuman.top](https://aweskill.wehuman.top/)
 
 ## 旧流程：你在管理 Agent 的工具
 
@@ -309,7 +309,7 @@ Check whether this agent's Skill projection is healthy.
 
 ---
 
-**官网**：[aweskill.webioinfo.top](https://aweskill.webioinfo.top/)
+**官网**：[aweskill.wehuman.top](https://aweskill.wehuman.top/)
 
 **安装**：`npm install -g aweskill`
 
